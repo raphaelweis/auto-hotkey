@@ -6,4 +6,4 @@
 !k:: Send {Up}
 
 #q:: Run "C:\Program Files (x86)\Microsoft\Edge Dev\Application\msedge.exe"
-#w:: Run "pwsh.exe"
+#w:: Run "C:\Program Files\PowerShell\7\pwsh.exe"
