@@ -6,4 +6,4 @@
 !k:: Send {Up}
 
 #q:: Run "C:\Program Files (x86)\Microsoft\Edge Dev\Application\msedge.exe"
-#w:: Run "C:\Program Files\Alacritty\alacritty.exe"
+#w:: Run "pwsh.exe"
